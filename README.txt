@@ -1,1 +1,1 @@
-Hello World
+http://educs.org
